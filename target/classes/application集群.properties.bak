@@ -1,0 +1,36 @@
+server.port=7777
+spring.application.name=redis7_study
+
+# ========================logging=====================
+logging.level.root=info
+logging.level.com.atguigu.redis7=info
+logging.pattern.console=%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger- %msg%n 
+
+logging.file.name=D:/mylogs2023/redis7_study.log
+logging.pattern.file=%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger- %msg%n
+
+# ========================swagger=====================
+spring.swagger2.enabled=true
+#?springboot2.6.X??swagger2.9.X???documentationPluginsBootstrapper??????
+#????springboot2.6.X??SpringMVC?????????AntPathMatcher???PathPatternParser?
+# ??????????matching-strategy?????ant_path_matcher
+spring.mvc.pathmatch.matching-strategy=ant_path_matcher
+
+# ========================redis集群=====================
+#spring.redis.host=localhost
+#spring.redis.port=6379
+spring.redis.password=147936
+# 获取失败 最大重定向次数
+spring.redis.cluster.max-redirects=3
+spring.redis.lettuce.pool.max-active=8
+spring.redis.lettuce.pool.max-wait=-1ms
+spring.redis.lettuce.pool.max-idle=8
+spring.redis.lettuce.pool.min-idle=0
+
+#支持集群拓扑动态感应刷新,自适应拓扑刷新是否使用所有可用的更新，默认false关闭
+spring.redis.lettuce.cluster.refresh.adaptive=true
+#定时刷新
+spring.redis.lettuce.cluster.refresh.period=2000
+spring.redis.cluster.nodes=192.168.88.133:6381,192.168.88.133:6382,192.168.88.133:6383,192.168.88.133:6384,192.168.88.133:6385,192.168.88.133:6386
+
+
