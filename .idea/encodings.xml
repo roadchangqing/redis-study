@@ -8,6 +8,7 @@
     <file url="file://$PROJECT_DIR$/src/main/java/com/example/redisstudy/controller/GeoService.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/example/redisstudy/controller/HyperLogLogController.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/example/redisstudy/controller/HyperLogLogService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/example/redisstudy/entities/Customer.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/example/redisstudy/service/GeoService.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/example/redisstudy/service/HyperLogLogService.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />

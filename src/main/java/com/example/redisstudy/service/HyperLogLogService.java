@@ -1,10 +1,11 @@
 package com.example.redisstudy.service;
 
+
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.stereotype.Service;
 
-import javax.annotation.PostConstruct;
+
 import javax.annotation.Resource;
 import java.util.Random;
 import java.util.concurrent.TimeUnit;

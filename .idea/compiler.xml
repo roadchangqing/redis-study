@@ -16,6 +16,8 @@
       <module name="HGBDemo" target="1.8" />
       <module name="hhyperloglogDemo" target="1.5" />
       <module name="hyperloglogDemo" target="1.8" />
+      <module name="mybatis-generator" target="1.8" />
+      <module name="mybatis_generator" target="1.8" />
       <module name="redis-study" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -24,6 +26,8 @@
       <module name="HGBDemo" options="-parameters" />
       <module name="canal_demo" options="-parameters" />
       <module name="hyperloglogDemo" options="-parameters" />
+      <module name="mybatis-generator" options="-parameters" />
+      <module name="mybatis_generator" options="-parameters" />
       <module name="redis-study" options="-parameters" />
     </option>
   </component>

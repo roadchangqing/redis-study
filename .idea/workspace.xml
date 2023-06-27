@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c68d09b-8427-49c4-9aa4-0c56f9bfeea8" name="变更" comment="" />
+    <list default="true" id="5c68d09b-8427-49c4-9aa4-0c56f9bfeea8" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/easyCodeTableSetting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20220320.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_4_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mybatisx/templates.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_6_2_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_6_1_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redis-study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/redis-study.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/redisstudy/RedisStudyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/redisstudy/RedisStudyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/redisstudy/service/HyperLogLogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/redisstudy/service/HyperLogLogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/redisstudy/RedisStudyApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/redisstudy/RedisStudyApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/redisstudy/RedisStudyApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/redisstudy/RedisStudyApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/redisstudy/service/HyperLogLogService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/redisstudy/service/HyperLogLogService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +38,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -39,21 +69,24 @@
     </option>
   </component>
   <component name="ProjectId" id="2RSUJ1gDJbjOicPjRzCEjXoVY5W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/example/redisstudy/entities" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -61,7 +94,7 @@
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20689656" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReactorSettings">
@@ -69,10 +102,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\ideademo\redis-study\src\main\java\com\example\redisstudy\entities" />
       <recent name="G:\ideademo\redis-study\src\main\resources" />
+      <recent name="G:\ideademo\redis-study\src\main\java\com\example\redisstudy" />
       <recent name="G:\ideademo\redis-study\src\main\java\com\example\redisstudy\service" />
       <recent name="G:\ideademo\redis-study\src\main\java\com\example\redisstudy\controller" />
-      <recent name="G:\ideademo\cancl_demo\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.hyperloglogdemo.controller" />
@@ -93,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jedisDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.redisstudy.demo.jedisDemo" />
+    <configuration name="lettuceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.redisstudy.demo.lettuceDemo" />
       <module name="redis-study" />
       <extension name="coverage">
         <pattern>
@@ -106,15 +140,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lettuceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.redisstudy.demo.lettuceDemo" />
+    <configuration name="RedisStudyApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="redis-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.redisstudy.demo.*" />
+          <option name="PATTERN" value="com.example.redisstudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.example.redisstudy" />
+      <option name="MAIN_CLASS_NAME" value="com.example.redisstudy.RedisStudyApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -166,6 +203,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MybatisGeneratorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mybatis-generator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mybatisgenerator.MybatisGeneratorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RedisStudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="redis-study" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.redisstudy.RedisStudyApplication" />
@@ -175,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RedisStudyApplicationTests.contextLoads" />
         <item itemvalue="Spring Boot.HGBDemoApplication" />
         <item itemvalue="Spring Boot.HyperloglogDemoApplication (2)" />
         <item itemvalue="应用程序.RedisCanalClientExample" />
         <item itemvalue="应用程序.lettuceDemo" />
-        <item itemvalue="应用程序.jedisDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -198,12 +242,26 @@
       <workItem from="1687442411881" duration="703000" />
       <workItem from="1687444036951" duration="6000" />
       <workItem from="1687504019256" duration="7332000" />
-      <workItem from="1687512481469" duration="2198000" />
+      <workItem from="1687512481469" duration="2891000" />
+      <workItem from="1687526717519" duration="631000" />
+      <workItem from="1687848626280" duration="8603000" />
     </task>
+    <task id="LOCAL-00001" summary="redis">
+      <created>1687514802258</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687514802258</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="redis" />
+    <option name="LAST_COMMIT_MESSAGE" value="redis" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
